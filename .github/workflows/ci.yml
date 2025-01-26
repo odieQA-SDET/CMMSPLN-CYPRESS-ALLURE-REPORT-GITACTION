@@ -9,4 +9,4 @@ jobs:
       - name: Cypress.io
         uses: cypress-io/github-action@v6
         with:
-          start: npx cypress open
+          start: npm run test

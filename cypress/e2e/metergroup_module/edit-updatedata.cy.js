@@ -25,7 +25,7 @@ describe('Meters Module - View Meter Details and Create New Meter Data', () => {
         cy.wait(500)
         cy.get('button[id="btn-action-Meter Group-1"]').click() //edit-update Data 
         cy.get('input[placeholder="Enter Meter Group"]').click().clear().type('MG AHMAD Ceria') //Enter Meter Name
-        cy.get('input[placeholder="Enter Meter Group Description"]').click().clear().type('UPDATE-TESTING Ahmad CERIA YA') //Enter Meter Description
+        cy.get('input[placeholder="Enter Meter Group Description"]').click().clear().type('UPDATE-TESTING Ahmad CERIA YA ') //Enter Meter Description
         cy.get('button[type="submit"]').click() //Submit Button for Edit/Update Data
         cy.get('#swal2-title').should('be.visible').title('Are you sure? you want to submit?').title({ duration: 2000 })
         cy.wait(500)
