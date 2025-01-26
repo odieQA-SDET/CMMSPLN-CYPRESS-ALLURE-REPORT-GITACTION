@@ -2,11 +2,12 @@ name: Cypress Simple Factorial
 on: [push] 
 jobs:
   cypress-run:
-    runs-on: ubuntu-ubuntu-22.04
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Cypress.io
         uses: cypress-io/github-action@v6
         with:
+          build: true  
           start: npm run test
