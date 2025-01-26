@@ -9,7 +9,4 @@ jobs:
       - name: Cypress.io
         uses: cypress-io/github-action@v6
         with:
-          start: npm run test
-          record: true
-          publish-summary: true
-          component: true
+          start: npx cypress open
