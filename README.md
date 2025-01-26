@@ -102,12 +102,12 @@ https://user-images.githubusercontent.com/93814478/229414501-bd4655c2-936c-4178-
 
 
 
-### AND CYPRESS AUTOMATION TESTING WITH CI/CD GIT ACTION in SUCCESS
+### AND CYPRESS AUTOMATION TESTING WITH CI/CD GIT ACTION
 
-[![Cypress Simple Factorial](https://github.com/odieQA-SDET/CYPRESS-FRAMEWORK/actions/workflows/main.yml/badge.svg)](https://github.com/odieQA-SDET/CYPRESS-FRAMEWORK/actions/workflows/main.yml)
+
 
 <h2>Cypress Results</h2>
-<table><tr><th>Result</th><th>Passed :white_check_mark:</th><th>Failed :x:</th><th>Pending :hand:</th><th>Skipped :leftwards_arrow_with_hook:</th><th>Duration :clock8:</th></tr><tr><td>Passing :white_check_mark:</td><td>7</td><td>0</td><td>0</td><td>0</td><td>9.26s</td></tr></table>
+<table><tr><th>Result</th><th>Passed :white_check_mark:</th><th>Failed :x:</th><th>Pending :hand:</th><th>Skipped :leftwards_arrow_with_hook:</th><th>Duration :clock8:</th></tr><tr><td>Failing :red_circle:</td><td>0</td><td>13</td><td>0</td><td>0</td><td>0s</td></tr></table>
 <a href="">
 
 
