@@ -94,22 +94,17 @@ Complexity Levels
 This document ensures robust test coverage for the "Meters & Groups" module, aligning with QA best practices. All positive and negative cases are tested to identify bugs early and ensure high-quality deliverables.
 
 
-### THIS IS OUTPUT of CYPRESS AUTOMATION TESTING in SUCCESS
-
-https://user-images.githubusercontent.com/93814478/229414501-bd4655c2-936c-4178-9ab8-7c10442c9698.mp4
+### THIS IS OUTPUT of CYPRESS AUTOMATION TESTING
 
 
 
 
 
-### AND CYPRESS AUTOMATION TESTING WITH CI/CD GIT ACTION in SUCCESS
-
-[![Cypress Simple Factorial](https://github.com/odieQA-SDET/CYPRESS-FRAMEWORK/actions/workflows/main.yml/badge.svg)](https://github.com/odieQA-SDET/CYPRESS-FRAMEWORK/actions/workflows/main.yml)
+### AND CYPRESS AUTOMATION TESTING WITH CI/CD GIT ACTION 
 
 <h2>Cypress Results</h2>
-<table><tr><th>Result</th><th>Passed :white_check_mark:</th><th>Failed :x:</th><th>Pending :hand:</th><th>Skipped :leftwards_arrow_with_hook:</th><th>Duration :clock8:</th></tr><tr><td>Passing :white_check_mark:</td><td>7</td><td>0</td><td>0</td><td>0</td><td>9.26s</td></tr></table>
+<table><tr><th>Result</th><th>Passed :white_check_mark:</th><th>Failed :x:</th><th>Pending :hand:</th><th>Skipped :leftwards_arrow_with_hook:</th><th>Duration :clock8:</th></tr><tr><td>Failing :red_circle:</td><td>0</td><td>13</td><td>0</td><td>0</td><td>0s</td></tr></table>
 <a href="">
-
 
 *License
 -MIT
