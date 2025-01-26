@@ -26,13 +26,13 @@ Simple CMMS Web App with cypress + Simple Test Case Manual and Automated Documen
 
 ### Table of Contents
 
-##### 1. Overview:
+### 1. Overview:
 Provide a concise introduction: 
 1. Objective: To evaluate the functionality of the CMMS module "Meters & Groups" through manual and automated tests.
 2. Scope: Cover both positive and negative test cases for all critical functionalities of the module. 
 3. Tools Used: Cypress, PDF, Microsoft Excel.
 
-##### 2. Test Plan:
+### 2. Test Plan:
 Purpose 
 The purpose of this document is to ensure the quality and functionality of the "Meters & Groups" module in CMMS. This includes validating core features such as CRUD (Create, Read, Update, Delete) operations and ensuring the module's robustness against invalid inputs.
 
@@ -41,17 +41,16 @@ The purpose of this document is to ensure the quality and functionality of the "
 • Positive and negative test cases for CRUD operations.
 • Validations for UI elements, error handling, and form inputs.
 
-2. Out-of-Scope 
+### 2. Out-of-Scope 
 • Performance testing.
 • Automation: Cypress with Cucumber integration.
 
-3. Testing Tools 
+### 3. Testing Tools 
 • Manual Testing: PDF and Microsoft Excel for documentation.
 • Automation: Cypress with Cucumber integration.
 • CI/CD: GitHub and Git Action 
 
-
-##### 3. Test Strategy:
+### 3. Test Strategy:
 Test Types 
 1. Manual Testing 
 • Perform exploratory testing to identify core scenarios.
@@ -65,15 +64,12 @@ Test Types
 • Resolution: 1920x1080.
 • OS: Windows 11
 
-
-##### 4. Test Case Coverage:
+#### 4. Test Case Coverage:
 Features to Test is the Performance output of exploratory testing to identify core scenarios of the "Meters & Groups" module in CMMS. 
-
 Complexity Levels 
 • Low: Input field validation (e.g., mandatory fields).
 • Medium: CRUD operations and form workflows.
 • High: Combined functionalities (e.g., search + filter).
-
 
 ### 5. Manual Test Cases:
 PDF & Microsoft Excell for Test Cases Documentation
@@ -82,13 +78,11 @@ PDF & Microsoft Excell for Test Cases Documentation
 • Automation: Cypress integration.
 • CI/CD: GitHub and Git Action 
 
-
-### 6. Complexity Analysis:
+### 7. Complexity Analysis:
 Complexity Levels 
 • Low Complexity: Field-level validations, login/logout scenarios
 • Medium Complexity: CRUD functionalities and search features.
 • High Complexity: Combinations of search, filter, and CRUD actions.
-
 
 ### Conclusion:
 This document ensures robust test coverage for the "Meters & Groups" module, aligning with QA best practices. All positive and negative cases are tested to identify bugs early and ensure high-quality deliverables.
