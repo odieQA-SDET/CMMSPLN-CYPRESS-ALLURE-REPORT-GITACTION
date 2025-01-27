@@ -93,6 +93,8 @@ This document ensures robust test coverage for the "Meters & Groups" module, ali
 https://github.com/user-attachments/assets/0fede0b8-f71f-4645-bf5b-27522fa02182
 
 #### Meter Module
+https://github.com/user-attachments/assets/eaa2a7e6-a4ce-4f98-a19a-90ab091bc4cb
+
 https://github.com/user-attachments/assets/baa40061-03cb-4e4b-b213-20a0ed814706
 
 https://github.com/user-attachments/assets/c26936b0-cd80-4b48-ab88-0bb4b6e06ae8
