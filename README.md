@@ -1,7 +1,3 @@
-
-https://github.com/user-attachments/assets/d06d4167-e57e-40fc-bc61-69491a590ff2
-
-https://github.com/user-attachments/assets/03f908a5-0a57-4040-b1be-16e6e0faa379
 # CYPRESS-FRAMEWORK
 Simple CMMS Web App with cypress + Simple Test Case Manual and Automated Documents 
 
@@ -14,7 +10,7 @@ Simple CMMS Web App with cypress + Simple Test Case Manual and Automated Documen
 [![](https://img.shields.io/badge/-odieSDET-ff0000?logo=youtube&style=flat-square&logoColor=white)](https://youtube.com)  
 </div> 
 
-## SOLVING PROBLEM
+## PROBLEM SOLVING
 > To solve this case study, I need to systematically analyze the information provided and use a structured approach to address the questions based on real-world scenarios as a QA Engineer/Analyst would.
 
 > Access the web application: Open a web browser and navigate to https://cmms.dev.aegislabs.work/#/page/assets/meters-&-groups Check that the web application is accessible and loads without any errors.
