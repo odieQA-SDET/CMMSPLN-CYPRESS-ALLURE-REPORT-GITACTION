@@ -9,6 +9,7 @@ jobs:
       - name: Cypress.io
         uses: cypress-io/github-action@v6
         with:
+          browser: chrome
           build: true  
           start: npm run test
           
