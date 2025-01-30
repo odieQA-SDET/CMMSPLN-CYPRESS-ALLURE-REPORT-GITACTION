@@ -64,7 +64,7 @@ Test Types
 • Resolution: 1920x1080.
 • OS: Windows 11
 
-#### 4. Test Case Coverage:
+### 4. Test Case Coverage:
 Features to Test is the Performance output of exploratory testing to identify core scenarios of the "Meters & Groups" module in CMMS. 
 Complexity Levels 
 • Low: Input field validation (e.g., mandatory fields).
@@ -117,6 +117,9 @@ https://github.com/user-attachments/assets/96c0ecf7-755a-4166-b90e-b1350c9ce085
 https://github.com/user-attachments/assets/5ed75122-7c8c-43ca-bf63-ab5573c92780
 
 https://github.com/user-attachments/assets/0fce3637-852a-40fe-bb81-e6f64b02de6b
+
+### AND CYPRESS AUTOMATION TESTING WITH ALLURE REPORT RESULT 
+https://github.com/user-attachments/assets/36873911-caae-4d22-ae73-299fc255f31f
 
 
 ### AND CYPRESS AUTOMATION TESTING WITH CI/CD GIT ACTION MISS CONFIGURATION FAILED RESULT 
