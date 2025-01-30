@@ -1,4 +1,4 @@
-# CYPRESS-FRAMEWORK-ALLURE-REPORT
+# CYPRESS-FRAMEWORK-ALLURE-REPORT-CICD-GIT-ACTION
 Simple CMMS Web App with cypress + Simple Test Case Manual and Automated Documents 
 
 # Test Document for CMMS
