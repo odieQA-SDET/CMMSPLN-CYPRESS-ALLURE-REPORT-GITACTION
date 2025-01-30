@@ -9,14 +9,11 @@ module.exports = defineConfig({
     setupNodeEvents(on, config) {
       // implement node event listeners here
           require('cypress-mochawesome-reporter/plugin')(on),
-          on('task', {downloadFile}),
           allureWriter(on, config);
-          allureCypress(on, config, {
-          resultsDir: "allure-results",
       });
           return config;    
     },
-        include: [".node_modules/cypress", 'cypress/**/*.js'],
+    include: [".node_modules/cypress", 'cypress/**/*.js'],
     baseUrl: 'https://cmms.dev.aegislabs.work/#/page/assets/meters-&-groups'
     },
   },
