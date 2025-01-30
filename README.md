@@ -41,7 +41,7 @@ The purpose of this document is to ensure the quality and functionality of the "
 • Positive and negative test cases for CRUD operations.
 • Validations for UI elements, error handling, and form inputs.
 
-### 2. Out-of-Scope 
+2. Out-of-Scope 
 • Performance testing.
 • Automation: Cypress with Cucumber integration.
 
@@ -50,7 +50,7 @@ The purpose of this document is to ensure the quality and functionality of the "
 • Automation: Cypress with Cucumber integration.
 • CI/CD: GitHub and Git Action 
 
-### 3. Test Strategy:
+### 4. Test Strategy:
 Test Types 
 1. Manual Testing 
 • Perform exploratory testing to identify core scenarios.
@@ -64,21 +64,21 @@ Test Types
 • Resolution: 1920x1080.
 • OS: Windows 11
 
-### 4. Test Case Coverage:
+### 5. Test Case Coverage:
 Features to Test is the Performance output of exploratory testing to identify core scenarios of the "Meters & Groups" module in CMMS. 
 Complexity Levels 
 • Low: Input field validation (e.g., mandatory fields).
 • Medium: CRUD operations and form workflows.
 • High: Combined functionalities (e.g., search + filter).
 
-### 5. Manual Test Cases:
+### 6. Manual Test Cases:
 PDF & Microsoft Excell for Test Cases Documentation
 
-### 6. Cypress Automation Test Cases:
+### 7. Cypress Automation Test Cases:
 • Automation: Cypress integration.
 • CI/CD: GitHub and Git Action 
 
-### 7. Complexity Analysis:
+### 8. Complexity Analysis:
 Complexity Levels 
 • Low Complexity: Field-level validations, login/logout scenarios
 • Medium Complexity: CRUD functionalities and search features.
